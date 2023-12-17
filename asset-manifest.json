@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Weather-station/static/css/main.2ec8ad30.css",
+    "main.js": "/Weather-station/static/js/main.6271d18d.js",
+    "static/js/787.d70d452e.chunk.js": "/Weather-station/static/js/787.d70d452e.chunk.js",
+    "static/media/robotoflex_regular.ttf": "/Weather-station/static/media/robotoflex_regular.1f865d34c9c5f4e4438f.ttf",
+    "index.html": "/Weather-station/index.html",
+    "main.2ec8ad30.css.map": "/Weather-station/static/css/main.2ec8ad30.css.map",
+    "main.6271d18d.js.map": "/Weather-station/static/js/main.6271d18d.js.map",
+    "787.d70d452e.chunk.js.map": "/Weather-station/static/js/787.d70d452e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec8ad30.css",
+    "static/js/main.6271d18d.js"
+  ]
+}
